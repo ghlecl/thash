@@ -1,0 +1,25 @@
+# Files
+*.o
+*.pro
+*.user
+*.orig
+*.DS_Store
+*.zip
+*.autosave
+*.swp
+
+
+# Directories (and thus their content)
+DevlTests/
+Build/
+Builds/
+build/
+builds/
+Bld/
+Blds/
+bld/
+blds/
+bld_tree/
+blds_tree/
+bld_trees/
+docs/gen_doc/
